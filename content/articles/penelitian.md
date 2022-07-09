@@ -1,4 +1,4 @@
-Title: penelitian
+Title: Penelitian
 Date: 2022-07-10 14:20
 Author: Gazali
 <!-- Tags: pelican, tutorial -->

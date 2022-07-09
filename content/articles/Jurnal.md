@@ -1,4 +1,4 @@
-Title: jurnal
+Title: Jurnal
 Date: 2022-07-10 14:20
 Author: Gazali
 <!-- Tags: pelican, tutorial -->
